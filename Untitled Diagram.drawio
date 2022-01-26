@@ -1,44 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T04:44:15.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nDMMGj-gak5UGpWi8tQ7" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T07:02:32.844Z" agent="5.0 (X11)" etag="GNobsJd7m8B3PH2N_R-3" version="16.4.6" type="github">
   <diagram id="hlP7j7b3LxIaewQkUc85" name="Page-1">
-    <mxGraphModel dx="793" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u9hk3vENFJ7tqccevF7m-1" value="獲得工作預估時間" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u9hk3vENFJ7tqccevF7m-1" value="獲得工作預估時間" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u9hk3vENFJ7tqccevF7m-2" value="獲得工作總數" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u9hk3vENFJ7tqccevF7m-2" value="獲得工作總數" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u9hk3vENFJ7tqccevF7m-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="u9hk3vENFJ7tqccevF7m-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u9hk3vENFJ7tqccevF7m-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="u9hk3vENFJ7tqccevF7m-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="130" as="sourcePoint" />
             <mxPoint x="310" y="130" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u9hk3vENFJ7tqccevF7m-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="u9hk3vENFJ7tqccevF7m-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="220" as="sourcePoint" />
             <mxPoint x="310" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u9hk3vENFJ7tqccevF7m-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="u9hk3vENFJ7tqccevF7m-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="310" as="sourcePoint" />
             <mxPoint x="310" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u9hk3vENFJ7tqccevF7m-10" value="時間成本的運算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u9hk3vENFJ7tqccevF7m-10" value="時間成本的運算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="90" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="u9hk3vENFJ7tqccevF7m-11" value="得出效益值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u9hk3vENFJ7tqccevF7m-11" value="得出效益值" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="90" width="100" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="u9hk3vENFJ7tqccevF7m-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="u9hk3vENFJ7tqccevF7m-11">
+        <mxCell id="u9hk3vENFJ7tqccevF7m-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="u9hk3vENFJ7tqccevF7m-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="230" as="sourcePoint" />
             <mxPoint x="480" y="180" as="targetPoint" />
