@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T08:51:14.292Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="pMBndpMjdwNTz-nSg0Im" version="16.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-10T10:59:51.027Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="r1ZbsK0Otf_glsLczTfs" version="16.5.5" type="github" pages="2">
   <diagram id="TzT6m59Ix_mjKr-WDxl3" name="Page-1">
     <mxGraphModel dx="884" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -51,21 +51,49 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z9pOu_TSIRcWGJFqptHg" name="Page-2">
-    <mxGraphModel dx="1318" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1610" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-0" />
         <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-1" parent="iAxWGbQ3Z2G4rB7DEW5Y-0" />
         <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-2" value="獲得Reward的數據" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1">
           <mxGeometry x="80" y="200" width="120" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1">
-          <mxGeometry x="280" y="200" width="120" height="310" as="geometry" />
+        <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-3" value="Reward表格生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1">
+          <mxGeometry x="240" y="200" width="120" height="310" as="geometry" />
         </mxCell>
         <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-4" value="得出算法效率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1">
-          <mxGeometry x="480" y="200" width="120" height="310" as="geometry" />
+          <mxGeometry x="400" y="200" width="120" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1">
-          <mxGeometry x="-90" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-5" value="系統選擇算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1">
+          <mxGeometry x="-90" y="200" width="120" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.44;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1" source="iAxWGbQ3Z2G4rB7DEW5Y-4" target="iAxWGbQ3Z2G4rB7DEW5Y-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="390" as="sourcePoint" />
+            <mxPoint x="260" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="590" />
+              <mxPoint x="-37" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1" source="iAxWGbQ3Z2G4rB7DEW5Y-2" target="iAxWGbQ3Z2G4rB7DEW5Y-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="630" as="sourcePoint" />
+            <mxPoint x="300" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1" source="iAxWGbQ3Z2G4rB7DEW5Y-3" target="iAxWGbQ3Z2G4rB7DEW5Y-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="630" as="sourcePoint" />
+            <mxPoint x="300" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAxWGbQ3Z2G4rB7DEW5Y-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iAxWGbQ3Z2G4rB7DEW5Y-1" source="iAxWGbQ3Z2G4rB7DEW5Y-5" target="iAxWGbQ3Z2G4rB7DEW5Y-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="630" as="sourcePoint" />
+            <mxPoint x="300" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
