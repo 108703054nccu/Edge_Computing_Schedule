@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T17:29:37.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="H3QRWI7SJL-dJxH4iHe6" version="16.5.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-02-14T17:32:19.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="SgvhxwXkfX_5Zq2fUBvX" version="16.5.6" type="github" pages="7">
   <diagram id="TzT6m59Ix_mjKr-WDxl3" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -564,6 +564,36 @@
       <root>
         <mxCell id="Kfsdr-y6a5FViO8Lh_9M-0" />
         <mxCell id="Kfsdr-y6a5FViO8Lh_9M-1" parent="Kfsdr-y6a5FViO8Lh_9M-0" />
+        <mxCell id="Kfsdr-y6a5FViO8Lh_9M-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Kfsdr-y6a5FViO8Lh_9M-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="560" as="sourcePoint" />
+            <mxPoint x="840" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kfsdr-y6a5FViO8Lh_9M-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Kfsdr-y6a5FViO8Lh_9M-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="600" as="sourcePoint" />
+            <mxPoint x="280" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kfsdr-y6a5FViO8Lh_9M-5" value="Task Cost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Kfsdr-y6a5FViO8Lh_9M-1">
+          <mxGeometry x="200" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kfsdr-y6a5FViO8Lh_9M-6" value="Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Kfsdr-y6a5FViO8Lh_9M-1">
+          <mxGeometry x="780" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kfsdr-y6a5FViO8Lh_9M-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="Kfsdr-y6a5FViO8Lh_9M-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="120" as="sourcePoint" />
+            <mxPoint x="820" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="310" />
+              <mxPoint x="400" y="440" />
+              <mxPoint x="460" y="500" />
+              <mxPoint x="550" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
