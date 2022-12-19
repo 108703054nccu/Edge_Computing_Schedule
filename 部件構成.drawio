@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T20:16:14.092Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="L6HWgg-QIvtrErCUG0DJ" type="github"><diagram id="vyHnllE-a__ffwbIcR8r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-19T12:07:50.899Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="VZ6cVuJfQDioa-ca1afb" type="github">
+  <diagram id="s5Lp6KJXsDP1r1KMHNbF" name="第 1 页">
+    <mxGraphModel dx="474" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="60" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Edge Server&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="85" y="70" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-5" value="&lt;b&gt;GnodeB&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-6" value="&lt;b&gt;UE&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="384" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-7" value="VNT Service" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-9" value="VNT Service" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-10" value="VNT Schedule" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-11" value="Task Schdule" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-12" value="Block chain model" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-13" value="Efficacy&amp;nbsp; integrator" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-14" value="VNT Service" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-15" value="VNT Serviec" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-16" value="efficacy manager&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-18" value="Block chain model" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="240" width="91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-19" value="UE information&lt;br&gt;receiver&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JW6iBh6kQ_5JrkFKigj4-2" target="JW6iBh6kQ_5JrkFKigj4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
