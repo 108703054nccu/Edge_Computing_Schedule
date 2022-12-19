@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T12:07:50.899Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="VZ6cVuJfQDioa-ca1afb" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T12:13:07.577Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="Uud6wExnAzv41e4WMZjg" type="github">
   <diagram id="s5Lp6KJXsDP1r1KMHNbF" name="第 1 页">
-    <mxGraphModel dx="474" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,18 @@
         </mxCell>
         <mxCell id="JW6iBh6kQ_5JrkFKigj4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JW6iBh6kQ_5JrkFKigj4-2" target="JW6iBh6kQ_5JrkFKigj4-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-21" value="主機資訊" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-22" value="工作成本" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-23" value="工作達成率" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6iBh6kQ_5JrkFKigj4-24" value="總工作使用時間" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
